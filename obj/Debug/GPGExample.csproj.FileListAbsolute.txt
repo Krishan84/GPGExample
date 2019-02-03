@@ -1,0 +1,9 @@
+F:\work\WindowFormApps\GPGExample\GPGExample\bin\Debug\GPGExample.exe.config
+F:\work\WindowFormApps\GPGExample\GPGExample\bin\Debug\GPGExample.exe
+F:\work\WindowFormApps\GPGExample\GPGExample\bin\Debug\GPGExample.pdb
+F:\work\WindowFormApps\GPGExample\GPGExample\bin\Debug\BouncyCastle.Crypto.dll
+F:\work\WindowFormApps\GPGExample\GPGExample\obj\Debug\GPGExample.Homepage.resources
+F:\work\WindowFormApps\GPGExample\GPGExample\obj\Debug\GPGExample.Properties.Resources.resources
+F:\work\WindowFormApps\GPGExample\GPGExample\obj\Debug\GPGExample.csproj.GenerateResource.Cache
+F:\work\WindowFormApps\GPGExample\GPGExample\obj\Debug\GPGExample.exe
+F:\work\WindowFormApps\GPGExample\GPGExample\obj\Debug\GPGExample.pdb
